@@ -1,0 +1,72 @@
+{
+  "transactions": [
+    {
+      "id": "tx-1-rsu-stcg",
+      "type": "RSU",
+      "symbol": "GOOGL",
+      "quantity": 100,
+      "acquisitionDate": "2024-05-01",
+      "acquisitionFmvUsd": 150,
+      "acquisitionExchangeRate": 83.5,
+      "saleDate": "2025-01-15",
+      "salePriceUsd": 180,
+      "saleExchangeRate": 84.1,
+      "expensesInr": 2500
+    },
+    {
+      "id": "tx-2-espp-stcl",
+      "type": "ESPP",
+      "symbol": "GOOGL",
+      "quantity": 50,
+      "acquisitionDate": "2024-11-01",
+      "acquisitionFmvUsd": 165,
+      "acquisitionExchangeRate": 84.0,
+      "saleDate": "2025-02-15",
+      "salePriceUsd": 155,
+      "saleExchangeRate": 84.2,
+      "expensesInr": 1200
+    },
+    {
+      "id": "tx-3-rsu-ltcg",
+      "type": "RSU",
+      "symbol": "MSFT",
+      "quantity": 200,
+      "acquisitionDate": "2021-03-15",
+      "acquisitionFmvUsd": 230,
+      "acquisitionExchangeRate": 72.5,
+      "saleDate": "2025-03-10",
+      "salePriceUsd": 410,
+      "saleExchangeRate": 83.8,
+      "expensesInr": 5000
+    },
+    {
+      "id": "tx-4-espp-ltcl",
+      "type": "ESPP",
+      "symbol": "MSFT",
+      "quantity": 150,
+      "acquisitionDate": "2022-06-01",
+      "acquisitionFmvUsd": 270,
+      "acquisitionExchangeRate": 77.6,
+      "saleDate": "2025-02-28",
+      "salePriceUsd": 265,
+      "saleExchangeRate": 83.9,
+      "expensesInr": 3500
+    },
+    {
+      "id": "tx-5-espp-ltcg",
+      "type": "ESPP",
+      "symbol": "AAPL",
+      "quantity": 75,
+      "acquisitionDate": "2020-08-15",
+      "acquisitionFmvUsd": 115,
+      "acquisitionExchangeRate": 74.8,
+      "saleDate": "2025-01-20",
+      "salePriceUsd": 195,
+      "saleExchangeRate": 83.6,
+      "expensesInr": 1800
+    }
+  ],
+  "slabRate": 30,
+  "version": 1,
+  "exportedAt": "2026-03-22T00:00:00Z"
+}

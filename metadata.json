@@ -1,0 +1,5 @@
+{
+  "name": "GlobalEquity Tax Calc",
+  "description": "A comprehensive Capital Gains Tax calculator for Indian employees holding foreign equity (ESPP & RSU), updated for the latest tax regimes.",
+  "requestFramePermissions": []
+}
