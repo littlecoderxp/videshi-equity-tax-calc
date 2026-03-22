@@ -4,6 +4,14 @@ A comprehensive Capital Gains Tax calculator designed for Indian employees holdi
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/a6d9844e-17f0-4faa-8746-695b414724e3
+
+## Screenshot
+<img width="2558" height="1438" alt="image" src="https://github.com/user-attachments/assets/f0ef7cf2-e7aa-42de-a4c1-7fc43a77a862" />
+
+
 ## ⚠️ Important Limitations and Disclaimer
 
 **This is NOT a Final Income Tax Calculator.**
