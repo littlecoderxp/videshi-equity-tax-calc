@@ -58,35 +58,37 @@ For your privacy, **no data is sent to any server**. Everything runs locally in 
 
 - **Framework**: React + TypeScript
 - **Styling**: Tailwind CSS
-- **Charts**: Recharts
-- **Icons**: Lucide React
-- **Build Tool**: Vite
+-   **Framework**: React + TypeScript
+-   **Styling**: Tailwind CSS
+-   **Charts**: Recharts
+-   **Icons**: Lucide React
+-   **Build Tool**: Vite
 
 ---
 
-## 🚀 How to Run Locally (Windows/VS Code)
+## 🚀 How to Run Locally (Windows, macOS, Linux)
 
 ### 1. Prerequisites
 Ensure you have **Node.js** installed.
-- Open your terminal (Command Prompt or PowerShell) and type `node -v`.
+- Open your terminal (Command Prompt/PowerShell on Windows, Terminal on macOS/Linux) and type `node -v`.
 - If it is not installed, download the LTS version from [nodejs.org](https://nodejs.org/).
 
 ### 2. Install Dependencies
-Open the Integrated Terminal in VS Code (`` Ctrl + ` ``) and run:
-\`\`\`powershell
+Open your terminal or Integrated Terminal in VS Code and run:
+```bash
 npm install
-\`\`\`
+```
 
 ### 3. Run the Application
 In the same terminal, run:
-\`\`\`powershell
+```bash
 npm run dev
-\`\`\`
-**Ctrl + Click** the local server link (e.g. `http://localhost:5173/`) to open the app in your browser.
+```
+Open the local server link (e.g. `http://localhost:5173/`) to view the app in your browser.
 
-### 4. Troubleshooting
+### 4. Troubleshooting (Windows Only)
 - **Script Policy Error**: If PowerShell gives an error about "running scripts is disabled", run this command to temporarily allow scripts:
-  \`\`\`powershell
+  ```powershell
   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
-  \`\`\`
+  ```
   Then try `npm run dev` again.
