@@ -58,8 +58,6 @@ For your privacy, **no data is sent to any server**. Everything runs locally in 
 
 - **Framework**: React + TypeScript
 - **Styling**: Tailwind CSS
--   **Framework**: React + TypeScript
--   **Styling**: Tailwind CSS
 -   **Charts**: Recharts
 -   **Icons**: Lucide React
 -   **Build Tool**: Vite
